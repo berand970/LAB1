@@ -1,4 +1,4 @@
-package emaillab;
+package progra_2_lab1;
 
 import java.awt.Color;
 import java.awt.Dimension;
